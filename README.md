@@ -9,3 +9,5 @@ Repo that concentrates all the content of the PythonDay Mexico talks. Here you c
 - [What is the GIL](https://goo.gl/ccveF4) by Naomi Ceder
 
 
+- [Comprehensible Comprehensions](http://treyhunner.com/comprehensible-comprehensions) by Trey Hunner
+
